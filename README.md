@@ -1,3 +1,4 @@
+![logo](https://github.com/rajsatyamraj03-collab/rajsatyamraj03-collab/blob/main/iit%20auditorium.jpeg)
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
 <h3 align="center">I’m a B.Tech Computer Science student with a passion for coding, technology, and innovation. I love exploring new tools, frameworks, and ideas that can help solve real-world problems through software and AI. I’m currently focused on improving my skills in programming, web/app development, and data structures. I enjoy working on projects, collaborating with others, and learning from every challenge I face. My goal is to grow as a developer and contribute to impactful tech solutions that make life easier and smarter.</h3>
 
