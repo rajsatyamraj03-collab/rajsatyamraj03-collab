@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsatyamraj03-collab&label=Profile%20views&color=0e75b6&style=flat" alt="rajsatyamraj03-collab" /> </p>
 
-
 - 🔭 I’m currently working on [Transportation-Logistics-Management-System](https://github.com/rajsatyamraj03-collab/Transportation-Logistics-Management-System)
 
 - 🌱 I’m currently learning **DSA,JAVA AND FRAMEWORKS OF PYTHON.**
