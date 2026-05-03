@@ -31,12 +31,12 @@
 <table border="0" cellpadding="20">
 <tr>
 <td align="center">
-<h3>👋 I'm Sonika Deshwal!</h3>
-<b>ML & NLP Engineer in the making 🚀</b><br/>
-📍 Panipat, Haryana<br/>
-🎓 CS (AI & ML) @ LPU — Batch 2027<br/>
-💼 ML Intern — SaiKet Systems ✅<br/>
-🌐 <a href="https://sonikadeshwal.netlify.app">sonikadeshwal.netlify.app</a><br/>
+<h3>👋 I'm Satyam Raj !</h3>
+<b> Software Engineer 🚀</b><br/>
+📍 Indore, Madhya Pradesh<br/>
+🎓 CST (AI & ML) @ SUI — Batch 2029<br/>
+💼 FULL STACK  Intern — @Excelerate and @Codveda ✅<br/>
+🌐 <a href="https://jobportal-sand-beta.vercel.app/">https://jobportal-sand-beta.vercel.app/</a><br/>
 <br/>
 <i>"My cat judges my code too 🐱"</i>
 </td>
@@ -57,15 +57,15 @@
 
 ```python
 sonika = {
-    "name"        : "Sonika Deshwal",
-    "role"        : "ML/NLP Engineer | CS Student",
-    "university"  : "Lovely Professional University",
-    "batch"       : "2023 → 2027",
-    "internship"  : "ML Intern @ SaiKet Systems ✅",
-    "speciality"  : ["RAG Pipelines", "NLP", "LLM APIs"],
+    "name"        : "Satyam Raj",
+    "role"        : "Aspiring Software Engineer | CST Student",
+    "university"  : "SAGE  University Indore ",
+    "batch"       : "2025 → 2029",
+    "internship"  : "FULL STACK  Intern @ Codveda ✅",
+    "speciality"  : ["LLM APIs"],
     "deployed"    : ["Medical RAG", "Mental Health AI", "Fraud Detector"],
-    "portfolio"   : "sonikadeshwal.netlify.app",
-    "fun_fact"    : "My cat judges my code too 🐱",
+    "portfolio"   : "file:///Users/satyamraj/Downloads/satyam-portfolio-3d.html",
+    "fun_fact"    : "Nothing is fair ",
     "passion"     : "Building AI that makes a real difference 🚀"
 }
 ```
@@ -86,11 +86,10 @@ sonika = {
 
 | | Detail |
 |:--|:--|
-| 🏢 **Company** | SaiKet Systems |
-| 🧑‍💻 **Role** | Machine Learning Intern |
-| 📅 **Duration** | Aug 2025 – Sep 2025 |
+| 🏢 **Company** | Codveda |
+| 🧑‍💻 **Role** | FULL STACK Intern |
+| 📅 **Duration** | Feb 2026 – Apr 2026 |
 | 🆔 **Intern ID** | SKS/A2/c41384 |
-| 🏅 **Certified Under** | ISO 9001:2015 Quality Management Framework |
 | 🛠 **Stack** | Python · Scikit-learn · Pandas · NumPy · Feature Engineering |
 
 </div>
@@ -100,7 +99,7 @@ sonika = {
 - 📈 Trained 3+ supervised models per cycle, pushing accuracy **8–12 pts above baseline**
 - 📊 Documented benchmarks & translated ML results into actionable insights for senior engineers
 
-[![Internship Repo](https://img.shields.io/badge/📁%20View%20Internship%20Repo-ml--internship--saiket--systems-1A56B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonikadeshwal/ml-internship-saiket-systems)
+
 
 ---
 
@@ -112,10 +111,8 @@ sonika = {
 |:--|:--|:--|:--|
 | 🏥 **Medical AI Assistant — RAG Q&A** | Production RAG pipeline with FAISS + Sentence Transformers on 500 PubMed samples. Cosine re-ranking + L2 domain guard | Python · FAISS · Sentence Transformers · Streamlit | [Code](https://github.com/sonikadeshwal/medical-rag-system) · [Demo](https://medical-rag-system-yua8mtkptgcbh3sl9qu3cx.streamlit.app/) |
 | 🧘 **Mental Health AI Companion** | LLM chatbot with sentiment-based emotional tone detection, voice input & weekly mood reports | Python · LLM APIs · NLP · Speech Recognition · Streamlit | [Code](https://github.com/sonikadeshwal/serenova-mental-health-companion) · [Demo](https://serenova-mental-health-companion-79u5ebfcykwmhnkhcuetwk.streamlit.app/) |
-| 🤖 **Smart AI Interview Coach** | AI mock interview simulator with role-based Q&A and real-time feedback | Python · Streamlit · NLP | [Code](https://github.com/sonikadeshwal/Smart-AI-Interview-Coach) |
-| 🔍 **Fake Account Detector** | ML classifier on behavioural signals — **92% precision, 89% F1** via 15+ engineered features | Python · Scikit-learn · Pandas | [Code](https://github.com/sonikadeshwal/Social-Media-Fake-Account-Detection) · [Demo](https://social-media-fake-account-detection-cpg6daakcrpcbcezzhwxbd.streamlit.app/) |
-| 📧 **Smart Email Classifier** | NLP classifier — **89% accuracy** across 4 email categories | Python · TF-IDF · Naive Bayes | [Code](https://github.com/sonikadeshwal/Smart-Email-Classifier) |
-| 📊 **E-Commerce Dashboard** | Interactive sales analytics with SQL-backed insights | Python · SQL · Streamlit | [Code](https://github.com/sonikadeshwal/E-Commerce-Sales-Analytics-Dashboard-) |
+| 🤖 **Smart AI Interview Coach** | AI mock interview simulator with role-based Q&A and real-time feedback | Python · Streamlit · NLP | [Code](https://github.com/rajsatyamraj03-collab/Job-Portal) |
+
 
 </div>
 
@@ -126,12 +123,12 @@ sonika = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sonikadeshwal.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://sonikadeshwal.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonikadeshwal/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonikadeshwal412@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/satyam-raj-a13a75385/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsatyamraj03@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sonika_Deshwal/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sonikadesxdpn)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sonikadeshwal412)
+[![LeetCode](https://leetcode.com/u/2529UG023722/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rajsatyamraj03)
 
 </div>
 
