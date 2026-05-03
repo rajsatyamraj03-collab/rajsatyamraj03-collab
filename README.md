@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EE7,50:A855F7,100:6366F1&height=200&section=header&text=Sonika%20Deshwal&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20%26%20NLP%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLM%20Deployment&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EE7,50:A855F7,100:6366F1&height=200&section=header&text=Satyam%20Raj&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20%26%20NLP%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLM%20Deployment&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6EE7&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Sonika+%F0%9F%91%8B;ML+Intern+%40+SaiKet+Systems+%E2%9C%85;Building+RAG+%26+NLP+Systems+%F0%9F%A4%96;FAISS+%7C+Sentence+Transformers+%7C+LLM+APIs;Deploying+AI+to+Production+%F0%9F%9A%80;Open+to+Placement+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6EE7&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Satyam Raj+%F0%9F%91%8B;FULL STACK+Intern+%40+Codveda+Technologies+%E2%9C%85;Building++%26+LLM+Systems+%F0%9F%A4%96;FAISS+%7C+Sentence+Transformers+%7C+LLM+APIs;Deploying+AI+to+Production+%F0%9F%9A%80;Open+to+Placement+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </div>
 
