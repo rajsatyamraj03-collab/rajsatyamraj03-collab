@@ -178,25 +178,19 @@ sonika = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonikadeshwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=satyamraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=sonikadeshwal&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://streak-stats.demolab.com?user=satyamraj&theme=tokyonight&hide_border=true" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikadeshwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonikadeshwal&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4" />
-
-</div>
 
 ---
 
@@ -204,7 +198,7 @@ sonika = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonikadeshwal&bg_color=1a1b27&color=FF6EE7&line=A855F7&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamraj&bg_color=1a1b27&color=FF6EE7&line=A855F7&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
