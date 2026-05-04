@@ -14,11 +14,9 @@
 
 ## 📄 Resume & Video CV
 
-[![Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-ML%20%7C%20NLP%20Engineer-6366F1?style=for-the-badge&logoColor=white)](https://github.com/sonikadeshwal/sonikadeshwal/raw/main/Sonika_Deshwal_Resume.pdf)
-&nbsp;
+
 [![Video CV](https://img.shields.io/badge/🎬%20Watch%20Video%20CV-2%20Min%20Pitch-FF6EE7?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gagU0re3VuU?si=9PLiHf1p3SMpERCc)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sonikadeshwal.netlify.app-A855F7?style=for-the-badge&logo=netlify&logoColor=white)](https://sonikadeshwal.netlify.app)
 
 </div>
 
