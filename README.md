@@ -55,6 +55,19 @@ sonika = {
     "passion"     : "Building AI that makes a real difference 🚀"
 }
 ```
+</code></pre>
+
+  </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="600" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" alt="rainbow border" />
+</p>
+
 
 🔹 Built **production RAG pipelines** with FAISS + Sentence Transformers  
 🔹 Shipped **LLM-powered NLP chatbots** with sentiment analysis & prompt engineering  
