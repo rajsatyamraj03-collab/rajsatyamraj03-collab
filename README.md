@@ -18,7 +18,7 @@
 <tr>
 <td align="center">
 <h3>👋 I'm Satyam Raj !</h3>
-<b> Software Engineer 🚀</b><br/>
+<b> Aspiring Software Engineer 🚀</b><br/>
 📍 Indore, Madhya Pradesh<br/>
 🎓 CST (AI & ML) @ SUI — Batch 2029<br/>
 💼 FULL STACK  Intern — @Excelerate and @Codveda ✅<br/>
