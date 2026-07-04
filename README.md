@@ -1,14 +1,21 @@
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
 
-## 📄 Resume & Video CV
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
-[![Video CV](https://img.shields.io/badge/🎬%20Watch%20Video%20CV-2%20Min%20Pitch-FF6EE7?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gagU0re3VuU?si=9PLiHf1p3SMpERCc)
-&nbsp;
+<div align="center">
+  
 
-</div>
-
-> 💡 **To recruiters:** My strongest work — production RAG pipelines, LLM chatbots, and ML classifiers — are all **live on Streamlit Cloud**. Not just notebooks.
 
 ---
 
@@ -55,18 +62,9 @@ sonika = {
     "passion"     : "Building AI that makes a real difference 🚀"
 }
 ```
-</code></pre>
 
-  </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="600" />
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" alt="rainbow border" />
-</p>
+
 
 
 🔹 Built **production RAG pipelines** with FAISS + Sentence Transformers  
@@ -200,34 +198,47 @@ sonika = {
 
 ---
 
-
-
----
-
-## 📈 Contribution Graph
+<div align="center">
+  
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamraj&bg_color=1a1b27&color=FF6EE7&line=A855F7&point=ffffff&area=true&hide_border=true" width="95%" />
-
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" />
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40" />
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" />
 
-<br/><br/>
 
-<b>✨ "Not just notebooks — I build AI that ships." ✨</b>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
-<br/>
+<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:FF6EE7&height=120&section=footer" />
-
-</div>
+<b>FUN FACT EVERYDAY🤔 :</b>
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
