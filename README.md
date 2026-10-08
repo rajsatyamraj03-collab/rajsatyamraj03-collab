@@ -108,7 +108,7 @@
 |:--|:--|:--|:--|
 | 🏥 **Medical AI Assistant — RAG Q&A** | Production RAG pipeline with FAISS + Sentence Transformers on 500 PubMed samples. Cosine re-ranking + L2 domain guard | Python · FAISS · Sentence Transformers · Streamlit | [Code](https://github.com/sonikadeshwal/medical-rag-system) · [Demo](https://medical-rag-system-yua8mtkptgcbh3sl9qu3cx.streamlit.app/) |
 | 🧘 **Mental Health AI Companion** | LLM chatbot with sentiment-based emotional tone detection, voice input & weekly mood reports | Python · LLM APIs · NLP · Speech Recognition · Streamlit | [Code](https://github.com/sonikadeshwal/serenova-mental-health-companion) · [Demo](https://serenova-mental-health-companion-79u5ebfcykwmhnkhcuetwk.streamlit.app/) |
-| 🤖 **Smart AI Interview Coach** | AI mock interview simulator with role-based Q&A and real-time feedback | Python · Streamlit · NLP | [Code](https://github.com/rajsatyamraj03-collab/Job-Portal) |
+| 🤖 **Smart AI Interview Coach** | AI mock interview simulator with role-based Q&A and real-time feedback | Python · Streamlit · NLP | [Code](https://your-job-coach.lovable.app/) |
 
 
 </div>
